@@ -11,7 +11,6 @@ weight: 20
 
 title: Experience
 subtitle:
-
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
@@ -48,3 +47,4 @@ experience:
 design:
   columns: '1'
 ---
+This is the experience text.
