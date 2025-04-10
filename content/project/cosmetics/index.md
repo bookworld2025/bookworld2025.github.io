@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: BookWorld Demo
+summary: An Interactive demo for BookWorld Simulation
 tags:
   - NLP
-date: 2022-01-01
-external_link: http://github.com
+date: 2025-04-20
+external_link: https://huggingface.co/
 ---
