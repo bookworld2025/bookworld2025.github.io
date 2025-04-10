@@ -4,5 +4,5 @@ summary: Code for running customized simulation.
 tags:
   - CV
 date: 2025-04-20
-external_link: https://github.com/alienet1109/BookWorld
+external_link: http://github.com
 ---
