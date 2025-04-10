@@ -10,6 +10,8 @@ weight: 30
 title: Abstract
 subtitle: 
 
+design:
+  columns: '1'
 ---
 Recent advances in large language models (LLMs) have enabled social simulation through multi-agent systems.  
 Prior efforts focus on agent societies created from scratch, assigning agents with newly defined personas.
