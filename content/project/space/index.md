@@ -1,6 +1,6 @@
 ---
 title: BookWorld Demo
-summary: An Interactive demo for BookWorld Simulation
+summary: We are working on an online interactive demo.
 tags:
   - CV
 date: 2025-04-01
