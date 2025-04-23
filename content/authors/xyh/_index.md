@@ -8,7 +8,7 @@ user_groups: ["Author"]
 superuser: false
 
 # Role/position
-# role: 'http://kw.fudan.edu.cn/people/xiaoyanghua/'
+role: 'http://kw.fudan.edu.cn/people/xiaoyanghua/'
 
 # Status emoji
 status:
