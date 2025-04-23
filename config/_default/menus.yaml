@@ -7,12 +7,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
-    url: about/
-    weight: 20
-  - name: Resources
-    url: home/portfolio
-    weight: 30
-  - name: Info
-    url: home/info
-    weight: 40
+  # - name: About
+  #   url: about/
+  #   weight: 20
+  # - name: Resources
+  #   url: home/portfolio
+  #   weight: 30
+  # - name: Info
+  #   url: home/info
+  #   weight: 40
