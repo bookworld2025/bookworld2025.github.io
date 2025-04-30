@@ -1,9 +1,9 @@
 ---
 title: BookWorld Demo
-summary: We are working on an online interactive demo.
+summary: An interactive demo of BookWorld.
 tags:
   - CV
 date: 2025-04-01
-external_link: https://huggingface.co/
+external_link: https://huggingface.co/spaces/alienet/BookWorld
 weight: 20
 ---
