@@ -13,6 +13,7 @@ subtitle:
 design:
   columns: '1'
 ---
-<video width="1600" height="900" controls>
-  <source src="/uploads/demo.mp4" type="video/mp4">
+
+<video controls width="1000">
+  <source src="/uploads/demo.mp4" type="video/mp4" />.
 </video>
