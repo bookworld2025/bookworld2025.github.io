@@ -14,6 +14,4 @@ design:
   columns: '1'
 ---
 
-<video controls width="1000">
-  <source src="/uploads/demo.mp4" type="video/mp4" />.
-</video>
+{{< youtube "cKOegEuCcfw" >}}
