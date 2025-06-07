@@ -28,3 +28,9 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
+
+<center class="half">
+  <video width="1600" height="900" controls>
+  <source src="/uploads/demo.mp4" type="video/mp4">
+</video>
+</center>
