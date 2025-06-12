@@ -15,3 +15,6 @@ design:
 ---
 
 {{< youtube "RPLvNdRStPU" >}}
+
+00′00″ - 01′01″ : English & Script mode
+01′02″ - 03′59″ : Chinese & Free mode
